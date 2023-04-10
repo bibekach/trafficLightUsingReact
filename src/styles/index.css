@@ -13,13 +13,14 @@
 
 .lightOn{
     border-color:white;
-    opacity: 0.5;
-    box-shadow: 0 0 0 3px white;
+    box-shadow: 0 0 0 10px white;
+    filter: brightness(85%);
 }
 
 .circle{
-    width: 10rem;
-    height: 10rem;
+    width: 5rem;
+    height: 5rem;
+    border: black;
 }
 
 
